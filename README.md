@@ -1,5 +1,5 @@
 # Pizza_sales_Analysis_Project
-Analyzed pizza sales report using sql query and power bi dax functions
+I Analyzed and visualized pizza sales report using sql query and power bi dax functions.
 
 KPI’s REQUIREMENT 
 
