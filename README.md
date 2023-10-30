@@ -23,11 +23,17 @@ I visualized  various aspects of our pizza sales data to gain insights and under
 7.Bottom 5 Worst Sellers by Total Pizzas Sold 
 
 Dax Functions (Power BI)
-Total Revenue = SUM(pizza_sales[total_price])
-AOV = [Total Revenue]/[Total Order]
-Total Pizza's Sold = SUM(pizza_sales[quantity])
-Total Order = DISTINCTCOUNT(pizza_sales[order_id])
-Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]  
+
+1. Total Revenue = SUM(pizza_sales[total_price])
+
+2. AOV = [Total Revenue]/[Total Order]
+   
+3. Total Pizza's Sold = SUM(pizza_sales[quantity])
+   
+4. Total Order = DISTINCTCOUNT(pizza_sales[order_id])
+  
+5. Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]
+   
 
 SQL Query with result - (https://docs.google.com/document/d/1n45CqvI-cF03D7yO_IzdFAZ_Yb9t3USCebDyiIxDsu0/edit?usp=sharing)
 
