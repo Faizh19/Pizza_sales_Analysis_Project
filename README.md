@@ -1,5 +1,5 @@
 # Pizza_sales_Analysis_Project
-Project to analyze pizza sales report using sql query and power bi dax functions
+Analyzed pizza sales report using sql query and power bi dax functions
 
 KPI’s REQUIREMENT 
 
@@ -28,6 +28,8 @@ AOV = [Total Revenue]/[Total Order]
 Total Pizza's Sold = SUM(pizza_sales[quantity])
 Total Order = DISTINCTCOUNT(pizza_sales[order_id])
 Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]  
+
+SQL Query ref to file name - pizza_sales_Query.sql
 
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/e74600f7-4530-40d1-a4ec-832f68e6902f)
 
