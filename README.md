@@ -29,7 +29,7 @@ Total Pizza's Sold = SUM(pizza_sales[quantity])
 Total Order = DISTINCTCOUNT(pizza_sales[order_id])
 Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]  
 
-SQL Query ref to file name - pizza_sales_Query.sql 
+SQL Query ref to file name - (https://docs.google.com/document/d/1n45CqvI-cF03D7yO_IzdFAZ_Yb9t3USCebDyiIxDsu0/edit?usp=sharing)
 
 we calculated on both sql and power bi to confirm our result. 
 
