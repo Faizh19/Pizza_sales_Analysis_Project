@@ -29,15 +29,11 @@ Total Pizza's Sold = SUM(pizza_sales[quantity])
 Total Order = DISTINCTCOUNT(pizza_sales[order_id])
 Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]  
 
-SQL Query ref to file name - (https://docs.google.com/document/d/1n45CqvI-cF03D7yO_IzdFAZ_Yb9t3USCebDyiIxDsu0/edit?usp=sharing)
+SQL Query with result - (https://docs.google.com/document/d/1n45CqvI-cF03D7yO_IzdFAZ_Yb9t3USCebDyiIxDsu0/edit?usp=sharing)
 
 we calculated on both sql and power bi to confirm our result. 
 
-![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/e74600f7-4530-40d1-a4ec-832f68e6902f)
-
-
-![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/87a66599-8ddd-4239-a646-e8bd4b702bde)
-
+Conclusion - Now we can make the business discussion for further investment and launch a new category of pizza or removal of under performance category based on there performance and sales.
 
 
 
