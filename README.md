@@ -32,6 +32,9 @@ Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/e74600f7-4530-40d1-a4ec-832f68e6902f)
 
 
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/87a66599-8ddd-4239-a646-e8bd4b702bde)
+
+
 
 
 
