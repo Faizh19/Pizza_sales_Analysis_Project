@@ -20,11 +20,17 @@ CHARTS  REQUIREMENT
 I visualized  various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
 
 1.Daily Trend for Total Orders
+
 2.Monthly Trend for Total Orders 
+
 3.Percentage of Sales by Pizza Category 
+
 4.Percentage of sales by pizza size 
+
 5.Total Pizzas Sold by Pizza Category 
+
 6.Top 5 Best Sellers by Total Pizzas Sold 
+
 7.Bottom 5 Worst Sellers by Total Pizzas Sold 
 
 Dax Functions (Power BI)
