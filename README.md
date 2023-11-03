@@ -3,7 +3,7 @@ I Analyzed and visualized pizza sales report using sql query and power bi dax fu
 
 KPI’s REQUIREMENT 
 
-I analyzed the key performance indicators for the pizza sales data to gain insights into this business performance. Specifically, I calculated the following metrics as per the company reuirement.
+I analyzed the key performance indicators for the pizza sales data to gain insights into this business performance. Specifically, I calculated the following metrics as per the company requirement.
 
 1.Total Revenue
 
@@ -47,6 +47,7 @@ Dax Functions (Power BI)
    
 
 Result : We found below following result:
+
 1.
 
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/ef8a056b-0137-4e13-9a7f-c376659a26f1)
