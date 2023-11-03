@@ -46,11 +46,18 @@ Dax Functions (Power BI)
 5. Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]
    
 
-SQL Query with result - (https://docs.google.com/document/d/1n45CqvI-cF03D7yO_IzdFAZ_Yb9t3USCebDyiIxDsu0/edit?usp=sharing)
+Result : We found below following result:
+1. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/287cae90-ff71-4a91-98db-fc99d01d1990)
 
-we calculated on both sql and power bi to confirm our result. 
+2. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/db4f6537-50a5-45f2-8644-bc108109df5f)
 
-Conclusion - Now we can make the business discussion for further investment and launch a new category of pizza or removal of under performance category based on there performance and sales.
+3. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/ce82e168-c5d9-4bd3-8e7f-8dcb5a460537)
+
+4. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/1db1b439-3d5b-4598-bc70-81c93a161db3)
+
+
+
+
 
 
 
