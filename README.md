@@ -47,13 +47,26 @@ Dax Functions (Power BI)
    
 
 Result : We found below following result:
-1. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/287cae90-ff71-4a91-98db-fc99d01d1990)
+1.
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/ef8a056b-0137-4e13-9a7f-c376659a26f1)
 
-2. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/db4f6537-50a5-45f2-8644-bc108109df5f)
 
-3. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/ce82e168-c5d9-4bd3-8e7f-8dcb5a460537)
+2.
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/dc4a73f2-1c93-4a97-be17-bf9ad9aa1ff3)
 
-4. ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/1db1b439-3d5b-4598-bc70-81c93a161db3)
+3.
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/acf5a47a-005e-4f4c-86a8-26a718656cd3)
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/4de37110-fda7-4188-b9d6-8061f7bbb408)
+
+4.
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/75d28ccb-a6ef-45c4-9931-90d6857c3ce2)
+![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/0f8c61f5-e9d7-478e-be10-09f52e5b4c9b)
+
+
+
+
+
+
 
 
 
