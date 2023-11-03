@@ -1,5 +1,5 @@
 # Pizza_sales_Analysis_Project
-I Analyzed and visualized pizza sales report using sql query and power bi dax functions.
+I Analyzed pizza sales report using sql query and power bi dax functions.
 
 KPI’s REQUIREMENT 
 
@@ -46,7 +46,7 @@ Dax Functions (Power BI)
 5. Avg Pizza's Per Order = [Total Pizza's Sold]/[Total Order]
    
 
-Result : We found below following result:
+Result : We found below following results:
 
 1.
 
