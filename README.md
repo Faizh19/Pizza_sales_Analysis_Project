@@ -48,6 +48,7 @@ Dax Functions (Power BI)
 
 Result : We found below following result:
 1.
+
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/ef8a056b-0137-4e13-9a7f-c376659a26f1)
 
 
