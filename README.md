@@ -56,10 +56,12 @@ Result : We found below following result:
 
 3.
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/acf5a47a-005e-4f4c-86a8-26a718656cd3)
+
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/4de37110-fda7-4188-b9d6-8061f7bbb408)
 
 4.
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/75d28ccb-a6ef-45c4-9931-90d6857c3ce2)
+
 ![image](https://github.com/Faizh19/Pizza_sales_Analysis_Project/assets/121799783/0f8c61f5-e9d7-478e-be10-09f52e5b4c9b)
 
 
